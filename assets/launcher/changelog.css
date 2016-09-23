@@ -1,0 +1,16 @@
+body{
+    background: #000 url("BackgroundJavaLauncher.png") no-repeat;
+}
+h1 {
+    font-family: sans-serif;
+    color: #e0d0d0;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+p {
+    font-family: sans-serif;
+    color: #e0d0d0;
+    font-size: 14px;
+    margin-left: 10px;
+}
