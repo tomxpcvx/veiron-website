@@ -1,0 +1,8 @@
+DirectoryIndex index.php
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([a-zA-Z0-9]+)$ $1.php [NC,L]
+RewriteRule ^([a-zA-Z0-9]+)/$ $1.php [NC,L]
+RewriteRule ^register/(.*)-(.*)$  register.php?$1=$2
