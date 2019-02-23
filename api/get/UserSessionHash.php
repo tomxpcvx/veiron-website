@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: tompi
- * Date: 18.09.2016
- * Time: 16:16
- */
 
 $email = $_POST["email"];
 
