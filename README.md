@@ -38,6 +38,8 @@ cd veiron-website/
                 ├── ...
     ├── website                         # representation of main domain
         ├── ...
+    ├── download                        # representation of download subdomain
+        ├── VeironLauncher.jar          # actual newest version of veiron-launcher
 ```
 
 ## Contribute
